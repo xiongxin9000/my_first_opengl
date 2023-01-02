@@ -1,0 +1,1 @@
+/usr/bin/c++   -pthread -lX11 -lXext   CMakeFiles/OpenGl.dir/src/main.cpp.o  -o OpenGl /usr/lib/x86_64-linux-gnu/libGL.so -lglfw3 -lX11 -ldl 

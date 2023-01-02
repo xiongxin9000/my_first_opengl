@@ -1,0 +1,3 @@
+/mnt/d/onedrive/OneDrive - Cranfield University/opengl/my_opengl/build/CMakeFiles/rebuild_cache.dir
+/mnt/d/onedrive/OneDrive - Cranfield University/opengl/my_opengl/build/CMakeFiles/OpenGl.dir
+/mnt/d/onedrive/OneDrive - Cranfield University/opengl/my_opengl/build/CMakeFiles/edit_cache.dir
