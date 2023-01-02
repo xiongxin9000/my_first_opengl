@@ -1,9 +1,19 @@
 # How to make opengl application in Ubuntu with CMake
 ## 1. Compile source code of glfw
-> 区块中使用列表
-> 1. 第一项
-> 2. 第二项
-> + 第一项
-> + 第二项
-> + 第三项
+> 1. download glfw source file.
+> 2. create build folder
+> 3. in the build folder
+>   `cmake ..`
+    `make`
 ## 2. make a first application 
+> 1. create a folder for making application
+> 2. create folders in that folder including `build,include,lib,src`
+>3. copy compiled inlude folder from glfw to this include file
+>4. copy libglfw3.a from glfw folder to the lib folder
+> 4. create source file in the src folder.
+> 5. create a CMakeLists.txt file
+> 6. in the build folder 
+`cmake ..`
+`make`
+`./OpenGl`
+ 
